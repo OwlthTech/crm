@@ -13,6 +13,7 @@ Read the area doc first. Then read the matching guide here.
 | An optional source, connection, or team-agent action | `docs/connections.md`, `docs/environment.md` | `adding-capabilities.md` |
 | A vendor such as ClickUp, including MCP | `docs/agent.md`, `docs/connections.md` | `adding-mcp-and-vendor-tools.md` |
 | A local or self-hosted model | `docs/agent.md`, `docs/environment.md` | `local-ai.md` |
+| Where the software may and must not be used | `LICENSE`, `SECURITY.md` | `licensing.md` |
 
 ## The rules that every change here must keep
 
